@@ -7,5 +7,6 @@ package com.atpdd.com;
 public class PddTest {
     public static void main(String[] args) {
         System.out.println("我在写java");
+        System.out.println("我还在写java");
     }
 }
